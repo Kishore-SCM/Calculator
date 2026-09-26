@@ -1,2 +1,2 @@
 #!/bin/ash
-echo "created for calculator project"
+echo "created for calculator practice"
